@@ -2,7 +2,7 @@
 
 ## Output
 
-![Data_Points](Images/Data_Points.png)
+![Data_Points](Images/Data_Points.PNG)
 
 ## Background
 
