@@ -1,13 +1,17 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib - The Power of Plots
+
+## Background
+
+Use Python, pandas, and matplotlib to clean and explore a pharmaceutical dataset in which 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
 ## Output
 
 ![Data_Points](Images/Data_Points.PNG)
 ![Final_Tumor](Images/Final_Tumor.PNG)
 
-## Background
+ 
 
-What good is data without a good plot to tell the story?
+<!-- What good is data without a good plot to tell the story?
 
 So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
 
@@ -64,3 +68,4 @@ Here are some final considerations:
 * Don't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always revisit old problems.
 
 * While you are trying to complete this assignment, feel encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
+ -->
